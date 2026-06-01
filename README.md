@@ -327,6 +327,15 @@
 - 后台：管理员控制台、用户管理、商家管理、商品分类、商品管理、抢购活动配置、资讯管理、系统配置、数据统计图表页面。
 所有截图可通过原有图片链接直接查看完整界面布局、菜单结构、表单样式与功能交互效果。
 
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/6724686e17114072b40a65f88c248ff3.png)
+
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/7db7cf8ee1ee4169aeb957735122c4f4.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/e8d21b4f5b124838bd9322a3417d3c67.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/070429b283254cad987913f1865eb7bb.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/3f7c93205fac4ff988318d3b1d7808d7.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/fed54bdf5f544a9c920f0d8f48bb8a70.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/b65563b9c2874b5da009283b78b67e9b.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/6f4aa72c4ae14331b34d6277da5e8d54.png)
 
 ## 八、开发与运行环境要求
 
